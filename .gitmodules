@@ -1,0 +1,12 @@
+[submodule "MUD-Manager"]
+	path = MUD-Manager
+	url = https://github.com/CiscoDevNet/MUD-Manager.git
+[submodule "Round5"]
+	path = Round5
+	url = https://github.com/round5/code.git
+[submodule "dilithium"]
+	path = dilithium
+	url = https://github.com/pq-crystals/dilithium.git
+[submodule "hash-sigs"]
+	path = hash-sigs
+	url = https://github.com/cisco/hash-sigs.git
